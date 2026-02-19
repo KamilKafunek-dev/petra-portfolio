@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Env
+.env
+.env.*
+
+# Node
+node_modules/
+dist/
+build/
+coverage/
+
+# Drupal / PHP common
+vendor/
+web/sites/default/files/
